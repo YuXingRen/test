@@ -1,3 +1,3 @@
 let a=4;
-console.log("haha")
-console.log("aaa")
+a= a=>console.log(a)
+a(1)
